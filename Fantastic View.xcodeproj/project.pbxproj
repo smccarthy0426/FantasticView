@@ -14,7 +14,7 @@
 		33C01EFD1F6F03D8006AF87C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 33C01EFB1F6F03D8006AF87C /* LaunchScreen.storyboard */; };
 		33C01F081F6F03D8006AF87C /* Fantastic_ViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33C01F071F6F03D8006AF87C /* Fantastic_ViewTests.swift */; };
 		33C01F131F6F03D8006AF87C /* Fantastic_ViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33C01F121F6F03D8006AF87C /* Fantastic_ViewUITests.swift */; };
-		33C01F211F6F03F6006AF87C /* FantasticView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33C01F201F6F03F6006AF87C /* FantasticView.swift */; };
+		33C01F211F6F03F6006AF87C /* RainbowViewMcCarthy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33C01F201F6F03F6006AF87C /* RainbowViewMcCarthy.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,7 +48,7 @@
 		33C01F0E1F6F03D8006AF87C /* Fantastic ViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Fantastic ViewUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		33C01F121F6F03D8006AF87C /* Fantastic_ViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fantastic_ViewUITests.swift; sourceTree = "<group>"; };
 		33C01F141F6F03D8006AF87C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		33C01F201F6F03F6006AF87C /* FantasticView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = FantasticView.swift; path = ../FantasticView.swift; sourceTree = "<group>"; };
+		33C01F201F6F03F6006AF87C /* RainbowViewMcCarthy.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RainbowViewMcCarthy.swift; path = ../RainbowViewMcCarthy.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,7 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				33C01EF21F6F03D8006AF87C /* AppDelegate.swift */,
-				33C01F201F6F03F6006AF87C /* FantasticView.swift */,
+				33C01F201F6F03F6006AF87C /* RainbowViewMcCarthy.swift */,
 				33C01EF41F6F03D8006AF87C /* ViewController.swift */,
 				33C01EF61F6F03D8006AF87C /* Main.storyboard */,
 				33C01EF91F6F03D8006AF87C /* Assets.xcassets */,
@@ -267,7 +267,7 @@
 			files = (
 				33C01EF51F6F03D8006AF87C /* ViewController.swift in Sources */,
 				33C01EF31F6F03D8006AF87C /* AppDelegate.swift in Sources */,
-				33C01F211F6F03F6006AF87C /* FantasticView.swift in Sources */,
+				33C01F211F6F03F6006AF87C /* RainbowViewMcCarthy.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

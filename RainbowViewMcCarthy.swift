@@ -9,7 +9,7 @@
 import Foundation
 import UIKit
 
-class FantasticView : UIView {
+class RainbowViewMcCarthy : UIView {
     let colors : [UIColor] = [.red, .orange, .yellow, .green, .blue, .purple]
     var colorCounter = 0
     override init(frame: CGRect) {
